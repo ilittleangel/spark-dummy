@@ -1,0 +1,7 @@
+.gradle
+.idea
+.idea_modules
+target/
+metastore_db/
+*.log
+*~
